@@ -47,6 +47,6 @@ Event Manager
 
 image: ![Mattie Logan](assets/img/logan.png)
 
-**Mattie Logan**  
+**Mattie Logan**   
 Webmaster
 
