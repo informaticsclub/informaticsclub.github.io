@@ -20,8 +20,8 @@ title: UAB Informatics Club
 ###############################################
 
 navbar-links:
-  About: "about"
-  The Board: "the-board"
+  About: "/_pages/about"
+  The Board: "/_pages/the-board"
   Resources: "resources"
   Contact Us:
 #  Author's home: "https://deanattali.com"
