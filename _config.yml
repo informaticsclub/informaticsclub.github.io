@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
- avatar: "/assets/img/informatics-alt-icon.png"
+ avatar: "assets/img/informatics-alt-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -50,11 +50,12 @@ title-img: "/assets/img/informatics-alt-icon.png"
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "informaticsclub@uab.edu"
+  email: "informaticsclub@uab.edu" 
+  instagram: informatics_club_uab
+  twitter: club_uab
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
-  twitter: club_uab
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -63,7 +64,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: informatics_club_uab
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -93,7 +93,7 @@ share-links-active:
   facebook: true
   linkedin: true
   instagram: true
-  vk: false
+ 
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -144,7 +144,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/UAB-color-with-R-standard_FullColor.png"
+footer-img: assets/img/UAB-color-with-R-standard_FullColor.png
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
