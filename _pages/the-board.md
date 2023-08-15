@@ -4,6 +4,11 @@ title: The Board
 subtitle: Meet Our Board Members
 ---
 
+![Lara Ianov](https://informaticsclub.github.io/images/ianov.png)
+
+**Lara Ianov**
+Faculty Advisor
+
 ![Samuel Bharti](https://informaticsclub.github.io/images/bharti.png)
 
 **Samuel Bharti**
