@@ -288,6 +288,7 @@ exclude:
   - screenshot.png
   - docs/
   - temp/
+  - tmp/
 
 plugins:
   - jekyll-paginate
