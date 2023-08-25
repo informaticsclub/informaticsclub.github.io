@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: UAB Informatics Club
+title: Informatics Club
 
 # Your name to show in the footer
 # author: Some Person
@@ -21,7 +21,7 @@ title: UAB Informatics Club
 
 navbar-links:
   About: "about"
-  The Board: "the-board"
+  Executive Board: "the-board"
   Resources: "resources"
   Contact Us:
 #  Author's home: "https://deanattali.com"
@@ -32,14 +32,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/informatics-alt-logo.png"
+#avatar: "assets/img/informatics-alt-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/informatics-alt-icon.png"
+title-img: "/assets/img/informatics-alt-logo.png"
 
 
 #####################################
@@ -55,7 +55,7 @@ social-network-links:
   twitter: club_uab
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-#  github: daattali
+  github: informaticsclub
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -128,23 +128,23 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1E6B52"
+navbar-col: "#144B39"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#1E6B52"
+navbar-border-col: "#144B39"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#1E6B52"
-footer-text-col: "#FFD602"
-footer-link-col: "#1E6B52"
-footer-hover-col: "#0085A1"
+link-col: "#88C408"
+hover-col: "#8f7a4e"
+footer-col: "#144B39"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#A69363"
+footer-hover-col: "#8f7a4e"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: assets/img/UAB-color-with-R-standard_FullColor.png
+#footer-img: assets/img/UAB-color-with-R-standard_FullColor.png
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
@@ -301,4 +301,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

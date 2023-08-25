@@ -4,8 +4,7 @@ title: About
 subtitle: Learn more about the Informatics Club at UAB.
 ---
 
-**Mission**
-
+## Mission
 
 The Informatics Club was founded to foster a community for UAB students and trainees
 who are interest in informatics (including bioinformatics and health/clinical informatics)
