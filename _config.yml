@@ -13,13 +13,14 @@
 title: Informatics Club
 
 # Your name to show in the footer
-# author: Some Person
+author: Informatics Club
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Home: "/"
   About: "about"
   Executive Board: "the-board"
   Resources: "resources"
