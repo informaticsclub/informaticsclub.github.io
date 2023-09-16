@@ -28,7 +28,7 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 
 - UAB's Research Computing Office Hours
     - Mondays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
-    - Thursdays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
+    - Thursdays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)  
 
 - CCTS Biostatistics, Epidemiology & Research Design (BERD) Consultations
     - One-on-One Biostatistics Design Consultation via BERD Clinics and individual appointments (in-person or virtually).
