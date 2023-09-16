@@ -21,7 +21,7 @@ Vice President
 
 ![Santosh Kumar Karthikeyan]()
 
-**Santosh Kumar Karthikeyan**  
+**Santhosh Kumar Karthikeyan**  
 Secretary
 
 ![Dana Indihar]()
@@ -37,11 +37,6 @@ Social Media Manager
 ![Shaurita Hutchins]()
 
 **Shaurita Hutchins**  
-Event Manager
-
-![Madison Fritts]()
-
-**Madison Fritts**  
 Event Manager
 
 image: ![Mattie Logan](assets/img/logan.png)
