@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Board
-subtitle: Meet Our Board Members
+title: Executive Board
+subtitle: Meet Our Exexutive Board
 ---
 
 ![Lara Ianov]()
@@ -18,7 +18,6 @@ President
 
 **Emma Graffice**  
 Vice President
-
 
 ![Santosh Kumar Karthikeyan]()
 
@@ -47,6 +46,5 @@ Event Manager
 
 image: ![Mattie Logan](assets/img/logan.png)
 
-**Mattie Logan**   
+**Mattie Logan**
 Webmaster
-
