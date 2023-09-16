@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Board
-subtitle: Meet Our Board Members
+title: Executive Board
+subtitle: Meet Our Exexutive Board
 ---
 
 ![Lara Ianov]()
@@ -19,10 +19,9 @@ President
 **Emma Graffice**  
 Vice President
 
-
 ![Santosh Kumar Karthikeyan]()
 
-**Santosh Kumar Karthikeyan**  
+**Santhosh Kumar Karthikeyan**  
 Secretary
 
 ![Dana Indihar]()
@@ -40,13 +39,7 @@ Social Media Manager
 **Shaurita Hutchins**  
 Event Manager
 
-![Madison Fritts]()
-
-**Madison Fritts**  
-Event Manager
-
 image: ![Mattie Logan](assets/img/logan.png)
 
-**Mattie Logan**   
+**Mattie Logan**
 Webmaster
-
