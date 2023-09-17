@@ -4,7 +4,9 @@ title: Resources
 ---
 Below are some helpful resources!
 
-## Learning Data Science at UAB
+# UAB Resources
+
+## Tutorials and Guides by UAB Scientists & Groups
 
 - [nf-core tipes](https://u-bds.github.io/training_guides/nf_core_tips.html) by Dr. Lara Ianov of U-BDS
 - [Data Wrangling](https://u-bds.github.io/training_guides/Mouse_cortex_hippocampus_Allen_brain.html) by Dr. Lara Ianov of U-BDS
@@ -13,7 +15,9 @@ Below are some helpful resources!
 - [UAB's Research Computing Documentation](https://docs.rc.uab.edu/) by UAB Research Computing
 - [CCTS Informatics Resources](https://www.uab.edu/ccts/research-commons/informatics) by CCTS
 
-## Cheaha
+## High Performance Computing
+
+### Cheaha
 
 Cheaha is a High Performance Computing (HPC) resource intended primarily for batch processing of research computing software. We offer a user-friendly portal website Open OnDemand with graphical interfaces to the most common features, all in one place.
 
@@ -28,21 +32,33 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 
 - UAB's Research Computing Office Hours
     - Mondays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
-    - Thursdays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
+    - Thursdays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)  
 
 - CCTS Biostatistics, Epidemiology & Research Design (BERD) Consultations
     - One-on-One Biostatistics Design Consultation via BERD Clinics and individual appointments (in-person or virtually).
         - Make an appointment: <https://redcap.dom.uab.edu/surveys/?s=H7W9EXT38THY7ER9>
     - In-person consultations take place in the Shelby Biomedical Research Building (1st floor) on Wednesdays 11:30 am - 1 pm and Fridays 8:30 am - 11:30 am
 
-## Slack
+## Community Channels
 
 - Join the [UAB Labs Slack](https://join.slack.com/t/uablabs/shared_invite/zt-211dwtcgl-d48Ws05G1v4RlIqOZsJULw) and search for the `#datascience` channel
     - This is a great place to ask questions and stay updated on opportunities.
 
-## External Resources
+## Courses, Workshops, and Events
 
-### The Carpentries
+List of events or workshops offered by UAB.
+
+## Software and Tools
+
+List of commonly used UAB-related software with download links and documentation.
+
+## Fellowships
+
+List of fellowships offered by UAB.
+
+# External Resources
+
+## The Carpentries
 
 The Carpentries is a 501(c)3 non-profit organization dedicated to educating researchers on software and data skills. Using inclusive and accessibly best practices, they build, maintaint and promote high-quality instructional material for a range of software and data-oriented concepts.
 
@@ -54,3 +70,13 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
 - [Data Carpentries Lessons](https://datacarpentry.org/lessons/): Primary page for the Data Carpentry lessons. Instructional material is available for a variety of fields.
     - [Genomics Curriculum](https://datacarpentry.org/lessons/#genomics-workshop)
     - [Image Processing Curriculum](https://datacarpentry.org/lessons/#image-processing-curriculum)
+
+## Courses, Tutorials, and Workshops
+
+## Software and Tools
+
+List of commonly used software with download links and documentation.
+
+# Recommended Reading
+
+Highly recommended academic papers, books, and blogs.
