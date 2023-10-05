@@ -11,3 +11,17 @@ footer.footer-min {
   border-top: 1px solid #eeeeee;
   text-align: center;
 }
+
+.member-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;  /* adjust as needed */
+}
+
+.member-container strong, .member-container h3 {
+  margin-bottom: 0.5em; /* Adjust this value as needed */
+}
+
+.member-container p {
+  margin-top: 0.5em; /* Adjust this value as needed */
+}

@@ -1,0 +1,36 @@
+- name: Dr. Lara Ianov
+  role: Faculty Advisor
+  image: /assets/img/ianov.jpg
+  github: lksfda
+
+- name: Samuel Bharti
+  role: President
+  image: /assets/img/samuel.jpeg
+
+- name: Emma Graffice
+  role: Vice President
+  image: /assets/img/emma.jpeg
+
+- name: Santhosh Kumar Karthikeyan
+  role: Secretary
+  image: /assets/img/santhosh.jpeg
+
+- name: Dana Indihar
+  role: Treasurer
+  image: /assets/img/dana.jpeg
+
+- name: Shaurita Hutchins
+  role: Event Manager
+  image: /assets/img/shaurita.png
+
+- name: Yuwei Song
+  role: Event Manager
+  image: /assets/img/yuwei.png
+
+- name: Kristen Coutinho
+  role: Social Media Manager
+  image: /assets/img/kristen.jpeg
+
+- name: Mattie Logan
+  role: Webmaster
+  image: /assets/img/logan.png

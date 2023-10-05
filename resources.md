@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Resources
+subtitle: Below are some helpful resources.
 ---
-Below are some helpful resources!
 
 # UAB Resources
+
+There are resources developed by or provided by UAB scientists, labs, and groups.
 
 ## Tutorials and Guides by UAB Scientists & Groups
 
