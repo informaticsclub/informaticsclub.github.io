@@ -1,4 +1,26 @@
-# Beautiful Jekyll
+# Informatics Club at UAB
+
+## Navigations
+
+- Home
+- Resources
+- Blogs
+- Executive Board
+- Contact
+
+## Developers
+
+- Mattie
+- Shaurita
+- Samuel
+
+## Reach out at:
+
+[informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)
+
+#### Template forked: Beautiful Jekyll 
+
+<!--  # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
@@ -233,3 +255,4 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
+ -->
