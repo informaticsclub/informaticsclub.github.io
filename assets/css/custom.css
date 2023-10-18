@@ -16,3 +16,17 @@
   .member-container p {
     margin-top: 0.5em; /* Adjust this value as needed */
   }
+
+footer {
+    position: fixed;
+    height: 50px;
+    background-color: red;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+body {
+  margin-bottom:50px;
+}
