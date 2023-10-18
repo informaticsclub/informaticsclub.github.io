@@ -19,8 +19,14 @@
 
 footer {
     position: fixed;
+    height: 11rem;
+    padding: 1.5rem 0;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+}
+
+.container-md {
+  margin-bottom: 14em;
 }
