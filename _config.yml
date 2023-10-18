@@ -22,8 +22,9 @@ author: Informatics Club
 navbar-links:
   Home: "/"
   About: "about"
-  Executive Board: "the-board"
+  Events: "events"
   Resources: "resources"
+  Executive Board: "the-board"
   Contact Us: "contact"
 #  Author's home: "https://deanattali.com"
 
