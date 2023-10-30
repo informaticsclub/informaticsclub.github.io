@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Title: Navigating the World of Single Cell Transcriptomics with Dr. Bharat
-subtitle: There's lots to learn!
-tags: [test]
-comments: true
+title: Navigating the World of Single Cell Transcriptomics with Dr. Bharat
+subtitle: Data Dialogues in Oct 2023!
+tags: [single-cell, data-dialogues, u-bds]
+comments: false
 ---
 
 ## Resource (Presentation; Links; Tutorials)
