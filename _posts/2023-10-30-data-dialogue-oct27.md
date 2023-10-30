@@ -5,10 +5,7 @@ subtitle: Data Dialogues in Oct 2023!
 tags: [single-cell, data-dialogues, u-bds]
 comments: false
 ---
-
-## Resource (Presentation; Links; Tutorials)
-
-<a href="https://drive.google.com/file/d/1QWnuZJMPFYtbTptkSQLNh0W7l1PPQWx5/view?usp=drive_link" target="_blank">Download</a><br>
+##### Resource (Presentation; Links; Tutorials) : <a href="https://drive.google.com/file/d/1QWnuZJMPFYtbTptkSQLNh0W7l1PPQWx5/view?usp=drive_link" target="_blank">Download</a><br>
 
 ![event-photograph](https://drive.google.com/uc?export=view&id=16xI6tpvoKRjGp6tsR3ftZhQ_aXn6q9OG)
 
