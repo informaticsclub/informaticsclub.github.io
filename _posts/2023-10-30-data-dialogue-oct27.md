@@ -7,11 +7,10 @@ comments: true
 ---
 
 ## Resource (Presentation; Links; Tutorials)
-{: .box-note}
-[Download](https://drive.google.com/file/d/1QWnuZJMPFYtbTptkSQLNh0W7l1PPQWx5/view?usp=drive_link)
 
+<a href="https://drive.google.com/file/d/1QWnuZJMPFYtbTptkSQLNh0W7l1PPQWx5/view?usp=drive_link" target="_blank">Download</a><br>
 
-![event-photograph](https://drive.google.com/file/d/16xI6tpvoKRjGp6tsR3ftZhQ_aXn6q9OG/view?usp=drive_link)
+![event-photograph](https://drive.google.com/uc?export=view&id=16xI6tpvoKRjGp6tsR3ftZhQ_aXn6q9OG)
 
 Last Friday, the UAB Informatics Club hosted its monthly Data Dialogues seminar event, featuring Dr. Bharat from U-BDS as the guest speaker. Dr. Bharat's presentation on "Navigating through Single Cell Transcriptomics Analyses" offered valuable insights into this cutting-edge field of genomics.
 
