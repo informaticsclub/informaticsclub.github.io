@@ -1,8 +1,7 @@
-.member-container {
+/* .member-container {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;  /* adjust as needed */
-  }
+    margin-bottom: 20px;  
 
   .member-container img {
     width: 250px;
@@ -10,13 +9,13 @@
   }
   
   .member-container strong, .member-container h2 {
-    margin-bottom: 0.5em; /* Adjust this value as needed */
+    margin-bottom: 0.5em;
   }
   
   .member-container p {
-    margin-top: 0.5em; /* Adjust this value as needed */
+    margin-top: 0.2em; 
   }
-
+ */
 footer {
     position: fixed;
     height: 11rem;
@@ -27,6 +26,6 @@ footer {
     margin-bottom: 0px;
 }
 
-.container-md {
-  margin-bottom: 14em;
+body {
+  padding-bottom: 14em !important;
 }
