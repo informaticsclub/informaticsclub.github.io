@@ -36,8 +36,8 @@ title: Events
           N/A
         {% endif %}
       </td>
-      <td><a href="{{ event.calendar }}">.ics file</a></td>
-    </tr> -->
+      <td><a href="{{ event.calendar }}">.ics file</a></td>-->
+    </tr> 
     {% endfor %}
   </tbody>
 </table>
