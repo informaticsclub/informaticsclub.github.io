@@ -25,5 +25,6 @@ We're excited about the future of the club and the opportunities it provides for
 
 _Written by ChatGPT (Prompt by Samuel Bharti)_
 
-_Want to request edits on this blog? Contact (sbharti@uab.edu)[mailto:sbharti@uab.edu] or (informaticsclub@uab.edu)[mailto:informaticsclub@uab.edu]_
+_Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_
+
 
