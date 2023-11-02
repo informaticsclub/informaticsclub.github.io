@@ -2,7 +2,7 @@
 layout: post
 title: Navigating the World of Single Cell Transcriptomics with Dr. Bharat
 subtitle: Data Dialogues in Oct 2023!
-tags: [single-cell, data-dialogues, u-bds]
+tags: [single-cell, transcriptomics, data-dialogues, u-bds]
 comments: false
 ---
 ##### Resource (Presentation; Links; Tutorials) : <a href="https://drive.google.com/file/d/1QWnuZJMPFYtbTptkSQLNh0W7l1PPQWx5/view?usp=drive_link" target="_blank">Download</a><br>
@@ -23,4 +23,6 @@ In conclusion, the Data Dialogues seminar featuring Dr. Bharat was a resounding 
 
 
 _Written by ChatGPT (Prompt by Samuel Bharti)_
+
+_Want request edits on the blogs? Contact sbharti@uab.edu or informaticsclub@uab.edu_
 
