@@ -24,4 +24,4 @@ Stay tuned for more event summaries and updates on our GitHub website, where we'
 
 _Written by ChatGPT (Prompt by Samuel Bharti)_
 
-_Want request edits on the blogs? Contact sbharti@uab.edu or informaticsclub@uab.edu_
+_Want to request edits on this blog? Contact (sbharti@uab.edu)[mailto:sbharti@uab.edu] or (informaticsclub@uab.edu)[mailto:informaticsclub@uab.edu]_
