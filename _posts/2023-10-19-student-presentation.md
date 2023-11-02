@@ -22,6 +22,6 @@ In conclusion, the student informatics presentation series event featuring Tarun
 
 Stay tuned for more event summaries and updates on our GitHub website, where we'll continue to unravel the exciting possibilities at the intersection of informatics and the life sciences.
 
-_Written by ChatGPT (Prompt by Samuel Bharti)_
+_Written by Samuel Bharti (draft by chatGPT)_
 
 _Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_

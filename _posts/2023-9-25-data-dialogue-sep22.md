@@ -23,7 +23,7 @@ In conclusion, our Data Dialogues event featuring Dr. Nilesh Kumar was a resound
 
 We're excited about the future of the club and the opportunities it provides for learning and networking. As we continue to share summaries and updates on our GitHub website, we look forward to further exploring the dynamic and evolving landscape of informatics. Stay tuned for more exciting events and discoveries in the world of data science and informatics.
 
-_Written by ChatGPT (Prompt by Samuel Bharti)_
+_Written by Samuel Bharti (draft by chatGPT)_
 
 _Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_
 

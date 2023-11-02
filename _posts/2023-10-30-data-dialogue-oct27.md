@@ -22,6 +22,6 @@ The event underscored that single cell transcriptomics is a frontier where genom
 In conclusion, the Data Dialogues seminar featuring Dr. Bharat was a resounding success. It offered a glimpse into the future of genomics and bioinformatics. The UAB Informatics Club is grateful for the opportunity to host such a distinguished speaker and looks forward to delving deeper into the world of single cell transcriptomics. This event not only expanded our horizons but also kindled our passion for informatics. Stay tuned for more event summaries and updates on our GitHub website as we continue to explore this exciting field.
 
 
-_Written by ChatGPT (Prompt by Samuel Bharti)_
+_Written by Samuel Bharti (draft by chatGPT)_
 
 _Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_
