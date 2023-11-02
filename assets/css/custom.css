@@ -16,7 +16,7 @@
     margin-top: 0.2em; 
   }
  */
-footer {
+/* footer {
     position: fixed;
     height: 11rem;
     padding: 1.5rem 0;
@@ -24,8 +24,16 @@ footer {
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+} */
+
+div[role=main]{
+  min-height: 100vh;
 }
 
-body {
-  padding-bottom: 14em !important;
+footer {
+  padding: 1rem 0;
 }
+
+/* body {
+  padding-bottom: 14em !important;
+} */
