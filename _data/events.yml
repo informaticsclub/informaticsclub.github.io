@@ -16,12 +16,12 @@
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
   calendar: 
-- name: Code, Chat, & Collab
+- name: Student Informatics Presentation 
   title: Unlocking the Secrets of Biological Data with LLMs
   date: Oct 19, 2023
   time: 2pm - 3pm
   mode: In-person
-  location: Shelby 105
+  location: BBRB256A
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
   calendar: 
@@ -75,6 +75,15 @@
   time: 2pm - 3pm
   mode: In-person
   location: Shelby 105
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+- name: Student Informatics Presentation 
+  title: UX Research Article Analysis:  A Human-Centered Designed Outreach Strategy for a Youth Contraception Navigator Program
+  date: Nov 16, 2023
+  time: 2pm - 3pm
+  mode: In-person
+  location: BBRB256A
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
   calendar: 
