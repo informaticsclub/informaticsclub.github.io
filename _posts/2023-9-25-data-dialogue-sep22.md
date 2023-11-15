@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Exploring the World of Spatial Transcriptomics with Dr. Nilesh Kumar
-subtitle: Data Dialogues in Sep 2023!
+title: "Data Dialogues: Exploring the World of Spatial Transcriptomics"
+subtitle: Read more about Dr. Nilesh Kumar's presentation in September 2023!
 tags: [spatial-transcriptomics, transcriptomics, single-cell, data-dialogues, u-bds]
 comments: false
 ---
-##### Resource (Presentation; Links; Tutorials) : <a href="https://docs.google.com/presentation/d/178MoVbk9u-dg4tgcpi09G6Qb4P6d8D_b/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true" target="_blank">Power Point</a> <a href="https://drive.google.com/file/d/1VOrPoiYi4jwdF93MalrAXhDaFtayzt1X/view?usp=sharing" target="_blank">PDF</a> 
+##### Resource (Presentation; Links; Tutorials) : <a href="https://docs.google.com/presentation/d/178MoVbk9u-dg4tgcpi09G6Qb4P6d8D_b/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true" target="_blank">Power Point</a> <a href="https://drive.google.com/file/d/1VOrPoiYi4jwdF93MalrAXhDaFtayzt1X/view?usp=sharing" target="_blank">PDF</a>
 
 ![event-photograph](https://drive.google.com/uc?export=view&id=1vNce5Ilw0Vuv7g3lOwhLDgAFEVYijUKA)
 
@@ -26,5 +26,3 @@ We're excited about the future of the club and the opportunities it provides for
 _Written by Samuel Bharti (draft by chatGPT)_
 
 _Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_
-
-

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Navigating the World of Single Cell Transcriptomics with Dr. Bharat
-subtitle: Data Dialogues in Oct 2023!
+title: "Data Dialogues: Navigating the World of Single Cell Transcriptomics with Dr. Bharat"
+subtitle: Learn more about Dr. Bharat Mishra's Presentation in October
 tags: [single-cell, transcriptomics, data-dialogues, u-bds]
 comments: false
 ---
@@ -20,7 +20,6 @@ Dr. Bharat also provided a comprehensive overview of the technical aspects of si
 The event underscored that single cell transcriptomics is a frontier where genomics continually pushes boundaries. Dr. Bharat's expertise and the audience's enthusiastic engagement affirmed that the field holds incredible promise for future research and discoveries.
 
 In conclusion, the Data Dialogues seminar featuring Dr. Bharat was a resounding success. It offered a glimpse into the future of genomics and bioinformatics. The UAB Informatics Club is grateful for the opportunity to host such a distinguished speaker and looks forward to delving deeper into the world of single cell transcriptomics. This event not only expanded our horizons but also kindled our passion for informatics. Stay tuned for more event summaries and updates on our GitHub website as we continue to explore this exciting field.
-
 
 _Written by Samuel Bharti (draft by chatGPT)_
 
