@@ -5,7 +5,7 @@ subtitle: Student Presentation in Nov 2023!
 tags: [ux research, article analysis, student-presentations, student]
 comments: false
 ---
-##### Resource (Presentation; Links; Tutorials) : <a href="https://drive.google.com/file/d/1jtFMFoA44l1PhEDd_kl-14LfuKFfPAOn/view?usp=sharing"_blank">Power Point</a>
+##### Resource (Presentation; Links; Tutorials) : <a href="https://drive.google.com/file/d/1jtFMFoA44l1PhEDd_kl-14LfuKFfPAOn/view?usp=sharing" target="_blank">PDF</a>
 
 
 On November 16, 2023, the UAB Informatics Club hosted its student informatics presentation series, featuring Mattie Logan, a second-year Master of Science in Health Informatics student. In the realm of user experience (UX) research, the pursuit of creating innovative and impactful solutions often depends on understanding the human element at a deeper level. Mattie's talk, titled "UX Research Article Analysis: A Human-Centered Designed Outreach Strategy for a Youth Contraception Navigator Program," shed light on an initiative that aims to inform and support youth in informed decision-making about contraception in a manner that resonates with needs, preferences, and behaviors. 
