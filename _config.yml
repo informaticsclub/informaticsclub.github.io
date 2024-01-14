@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-![Informatics-Club-logo](/assets/img/informatics-alt-logo.png)
+title_image: "/assets/img/informatics-alt-logo.png"
 title: Informatics Club
 
 # Your name to show in the footer
