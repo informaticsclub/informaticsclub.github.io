@@ -22,7 +22,7 @@ In conclusion, our Data Dialogues event featuring Dr. Nilesh Kumar was a resound
 
 We're excited about the future of the club and the opportunities it provides for learning and networking. As we continue to share summaries and updates on our GitHub website, we look forward to further exploring the dynamic and evolving landscape of informatics. Stay tuned for more exciting events and discoveries in the world of data science and informatics.
 
-<a href="https://docs.google.com/presentation/d/178MoVbk9u-dg4tgcpi09G6Qb4P6d8D_b/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true">
+<a href="https://docs.google.com/presentation/d/178MoVbk9u-dg4tgcpi09G6Qb4P6d8D_b/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true" class="btn btn-primary" target="_blank">
   Download Presentation Slides
 </a>
 

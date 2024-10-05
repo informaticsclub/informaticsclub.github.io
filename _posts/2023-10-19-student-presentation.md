@@ -20,7 +20,7 @@ In conclusion, the student informatics presentation series event featuring Tarun
 
 Stay tuned for more event summaries and updates on our GitHub website, where we'll continue to unravel the exciting possibilities at the intersection of informatics and the life sciences.
 
-<a href="https://docs.google.com/presentation/d/1-oaQsQHNCe_eacXCfHaQoHuWSqFrSuE0/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true">
+<a href="https://docs.google.com/presentation/d/1-oaQsQHNCe_eacXCfHaQoHuWSqFrSuE0/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true" class="btn btn-primary" target="_blank">
   Download Presentation Slides
 </a>
 
