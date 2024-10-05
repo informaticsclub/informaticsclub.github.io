@@ -61,8 +61,8 @@ social-network-links:
 #  facebook: deanattali
   github: informaticsclub
 #  patreon: DeanAttali
-#  youtube: "@daattali"
-  whatsapp: 15551212
+  youtube: "@informatics_club_uab"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -150,15 +150,6 @@ footer-col: "#144B39"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#A69363"
 footer-hover-col: "#8f7a4e"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
