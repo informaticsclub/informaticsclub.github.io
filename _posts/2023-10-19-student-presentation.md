@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Student Presentation: Illuminating Biological Data with LLMs"
-subtitle: Read more about UAB GBS Student, Tarun Kumar's, in Oct 2023!
+title: "Student Presentation"
+subtitle:  Illuminating Biological Data with LLMs Tarun Kumar
 tags: [llm, biological-data, ai, student-presentations, student]
 comments: false
 ---
-##### Resource (Presentation; Links; Tutorials) : <a href="https://docs.google.com/presentation/d/1-oaQsQHNCe_eacXCfHaQoHuWSqFrSuE0/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true" target="_blank">Power Point</a>
 
 On October 19, 2023, the UAB Informatics Club hosted its student informatics presentation series, featuring Tarun Kumar, a fifth-year Ph.D. student from the UAB GBS-GGB program. Tarun's talk, titled "Unlocking the Secrets of Biological Data with LLMs," was an enlightening exploration into the world of Large Language Models (LLMs) and their application to deciphering biological data.
 
@@ -20,6 +19,10 @@ Furthermore, Tarun provided insights into the challenges and ethical considerati
 In conclusion, the student informatics presentation series event featuring Tarun Kumar was a captivating glimpse into the convergence of artificial intelligence and biology. The UAB Informatics Club is proud to provide a platform for talented students like Tarun to share their insights and discoveries. As we continue to explore the ever-evolving landscape of informatics, we look forward to more events that bridge the gap between cutting-edge technology and scientific exploration.
 
 Stay tuned for more event summaries and updates on our GitHub website, where we'll continue to unravel the exciting possibilities at the intersection of informatics and the life sciences.
+
+<a href="https://docs.google.com/presentation/d/1-oaQsQHNCe_eacXCfHaQoHuWSqFrSuE0/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true">
+  Download Presentation Slides
+</a>
 
 _Written by Samuel Bharti (draft by chatGPT)_
 
