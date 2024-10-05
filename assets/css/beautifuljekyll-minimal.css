@@ -25,3 +25,15 @@ footer.footer-min {
 .member-container p {
   margin-top: 0.5em; /* Adjust this value as needed */
 }
+
+.btn-primary {
+  color: #fff;
+  background-color: #144B39;
+  border-color: #144B39;
+}
+
+.btn-primary:hover {
+  color: #fff; /* Change text color on hover */
+  background-color: #8f7a4e; /* Change background color on hover */
+  border-color: #8f7a4e; /* Change border color on hover */
+}
