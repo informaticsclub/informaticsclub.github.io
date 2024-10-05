@@ -10,7 +10,7 @@ There are resources developed by or provided by UAB scientists, labs, and groups
 
 ## Tutorials and Guides by UAB Scientists & Groups
 
-- [nf-core tipes](https://u-bds.github.io/training_guides/nf_core_tips.html) by Dr. Lara Ianov of U-BDS
+- [nf-core tips](https://u-bds.github.io/training_guides/nf_core_tips.html) by Dr. Lara Ianov of U-BDS
 - [Intro to Docker for RStudio](https://u-bds.github.io/training_guides/intro_to_docker_rstudio_part1.html) by Dr. Lara Ianov of U-BDS
 - [Lasseinge Lab Training Guides](https://www.lasseigne.org/education/) by the Lasseigne Lab
 - [UAB's Research Computing Documentation](https://docs.rc.uab.edu/) by UAB Research Computing
@@ -28,7 +28,7 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 
 ## Office Hours
 
-- U-BDS offers weekly data science office hours on Thursdays from 1:30pm-2:00pm.
+- U-BDS offers weekly data science office hours on **Thursdays from 1:30pm-2:00pm**.
     - If you are a UAB trainee, staff or faculty please feel free to stop by via [zoom](https://tinyurl.com/mt5wfyrs).
 
 - Code, Chat, & Collab is hosted **weekly** on **Fridays** by the Informatics Club in [BBRB 258](https://www.uab.edu/medicine/microbiology/news-events/schedule-a-room/bbrb-258) at Noon.
@@ -49,15 +49,7 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 
 ## Courses, Workshops, and Events
 
-List of events or workshops offered by UAB.
-
-## UAB Software and Tools
-
-List of commonly used UAB-related software with download links and documentation.
-
-## Fellowships
-
-List of fellowships offered by UAB.
+U-BDS offers bi to tri-annual workshops which cover the fundamentals of programming (R, Python, Unix, git).
 
 # External Resources
 
@@ -76,9 +68,7 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
 
 ## Courses, Tutorials, and Workshops
 
-## Software and Tools
-
-List of commonly used software with download links and documentation.
+- [EMBL-EBI Training](https://www.ebi.ac.uk/training/): EMBL-EBI offers a variety of online and in person training resources, including webinars, tutorials, and courses.
 
 ## Recommended Reading
 
