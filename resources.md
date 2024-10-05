@@ -11,7 +11,6 @@ There are resources developed by or provided by UAB scientists, labs, and groups
 ## Tutorials and Guides by UAB Scientists & Groups
 
 - [nf-core tipes](https://u-bds.github.io/training_guides/nf_core_tips.html) by Dr. Lara Ianov of U-BDS
-- [Data Wrangling](https://u-bds.github.io/training_guides/Mouse_cortex_hippocampus_Allen_brain.html) by Dr. Lara Ianov of U-BDS
 - [Intro to Docker for RStudio](https://u-bds.github.io/training_guides/intro_to_docker_rstudio_part1.html) by Dr. Lara Ianov of U-BDS
 - [Lasseinge Lab Training Guides](https://www.lasseigne.org/education/) by the Lasseigne Lab
 - [UAB's Research Computing Documentation](https://docs.rc.uab.edu/) by UAB Research Computing
@@ -21,7 +20,9 @@ There are resources developed by or provided by UAB scientists, labs, and groups
 
 ### Cheaha
 
-Cheaha is a High Performance Computing (HPC) resource intended primarily for batch processing of research computing software. We offer a user-friendly portal website Open OnDemand with graphical interfaces to the most common features, all in one place.
+Cheaha is a High Performance Computing (HPC) resource intended primarily for batch processing of research computing
+software. We offer a user-friendly portal website Open OnDemand with graphical interfaces to the most common
+features, all in one place.
 
 Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 
@@ -30,27 +31,27 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 - U-BDS offers weekly data science office hours on Thursdays from 1:30pm-2:00pm.
     - If you are a UAB trainee, staff or faculty please feel free to stop by via [zoom](https://tinyurl.com/mt5wfyrs).
 
-- Code, Chat, & Collab is hosted weekly by the Informatics Club in Shelby 105 at 2 PM.
+- Code, Chat, & Collab is hosted **weekly** on **Fridays** by the Informatics Club in [BBRB 258](https://www.uab.edu/medicine/microbiology/news-events/schedule-a-room/bbrb-258) at Noon.
 
-- UAB's Research Computing Office Hours
+- **UAB's Research Computing Office Hours**
     - Mondays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
     - Thursdays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)  
 
-- CCTS Biostatistics, Epidemiology & Research Design (BERD) Consultations
+- **CCTS Biostatistics, Epidemiology & Research Design (BERD) Consultations**
     - One-on-One Biostatistics Design Consultation via BERD Clinics and individual appointments (in-person or virtually).
         - Make an appointment: <https://redcap.dom.uab.edu/surveys/?s=H7W9EXT38THY7ER9>
     - In-person consultations take place in the Shelby Biomedical Research Building (1st floor) on Wednesdays 11:30 am - 1 pm and Fridays 8:30 am - 11:30 am
 
 ## Community Channels
 
-- Join the [UAB Labs Slack](https://join.slack.com/t/uablabs/shared_invite/zt-211dwtcgl-d48Ws05G1v4RlIqOZsJULw) and search for the `#datascience` channel
-    - This is a great place to ask questions and stay updated on opportunities.
+- Join the [UAB Labs Slack](https://join.slack.com/t/uablabs/shared_invite/zt-211dwtcgl-d48Ws05G1v4RlIqOZsJULw) and search for the `#datascience` channel and `#informatics-club` channel
+    - These are great places to ask questions and stay updated on opportunities.
 
 ## Courses, Workshops, and Events
 
 List of events or workshops offered by UAB.
 
-## Software and Tools
+## UAB Software and Tools
 
 List of commonly used UAB-related software with download links and documentation.
 
@@ -79,6 +80,11 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
 
 List of commonly used software with download links and documentation.
 
-# Recommended Reading
+## Recommended Reading
 
-Highly recommended academic papers, books, and blogs.
+- [Ten simple rules for using public biological data for your research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010749) by Oza, V. H., Whitlock, J. H., Wilk, E. J., Uno-Antonison, A., Wilk, B., Gajapathy, M., Howton, T. C., Trull, A., Ianov, L., Worthey, E. A., & Lasseigne, B. N. (2023)
+- [So you want to be a computational biologist?](http://www.nature.com/nbt/journal/v31/n11/full/nbt.2740.html)
+- [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+- [Good Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
+- [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
