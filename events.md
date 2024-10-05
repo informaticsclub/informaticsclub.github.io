@@ -3,7 +3,9 @@ layout: page
 title: Events
 ---
 
-#### Zoom link for Informatics Club: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/my/informaticsclub)
+Food is always served at our Code, Chat, & Collab events.
+
+The following Zoom link can be accessed for all our events: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/my/informaticsclub)
 
 <table>
   <thead>
@@ -15,6 +17,7 @@ title: Events
       <th>Mode</th>
       <th>Location</th>
       <th>Flyer</th>
+      <th>Resources</th>
 <!--       <th>Zoom</th>
       <th>Calendar Link</th> -->
     </tr>
@@ -29,15 +32,14 @@ title: Events
       <td>{{ event.mode }}</td>
       <td>{{ event.location }}</td>
       <td><a href="{{ event.flyer }}">Link</a></td>
-      <!-- <td>
-        {% if event.zoom %}
-          <a href="{{ event.zoom }}">Link</a>
+      <td>
+        {% if event.resources %}
+          <a href="{{ event.resources }}"><i class="fab fa-github fa-stack-1x fa-inverse"></i></a>
         {% else %}
           N/A
         {% endif %}
       </td>
-      <td><a href="{{ event.calendar }}">.ics file</a></td>-->
-    </tr> 
+    </tr>
     {% endfor %}
   </tbody>
 </table>

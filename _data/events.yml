@@ -33,7 +33,8 @@
   location: Shelby 105
   flyer:  #flyer link from google drive
   zoom:  # If none, leave empty
-  calendar: 
+  calendar:
+  resources: 
 - name: Data Dialogues
   title: Navigating Through Single Cell Transcriptomics Analyses
   date: Oct 27, 2023
@@ -42,7 +43,8 @@
   location: Shelby 105
   flyer:  #flyer link from google drive
   zoom: https://uab.zoom.us/my/informaticsclub # If none, leave empty
-  calendar: 
+  calendar:
+  resources: 
 - name: Halloween Triva Night
   date: Oct 29, 2023
   time: 5:30 PM
@@ -50,34 +52,25 @@
   location: Uproot Brewing Co.
   flyer:  #flyer link from google drive
   zoom:  # If none, leave empty
-  calendar: /assets/ics/halloween_triva.ics
+  resources:
 - name: Code, Chat, & Collab
-  title: Unix command lines for bioinfomatics
+  title: The Unix command line
   date: Nov 3, 2023
   time: 2pm - 3pm
   mode: In-person
   location: Shelby 105
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
-  calendar: 
+  resources:
 - name: Code, Chat, & Collab
-  title: Collection of useful bioinfomatic scripts
+  title: Useful Bioinfomatics Scripts
   date: Nov 10, 2023
   time: 2pm - 3pm
   mode: In-person
   location: Shelby 105
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
-  calendar: 
-- name: Code, Chat, & Collab
-  title: 
-  date: 
-  time: 2pm - 3pm
-  mode: In-person
-  location: Shelby 105
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
+  resources:
 - name: Student Informatics Presentation 
   title: "UX Research Article Analysis: A Human-Centered Designed Outreach Strategy for a Youth Contraception Navigator Program"
   date: Nov 16, 2023
@@ -86,4 +79,22 @@
   location: BBRB256A
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
-  calendar: 
+  resources:
+- name: Code, Chat, & Collab
+  title: 
+  date: Nov 17, 2023
+  time: 2pm - 3pm
+  mode: In-person
+  location: Shelby 105
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  resources:
+- name: Code, Chat, & Collab
+  title: 
+  date: Nov 17, 2023
+  time: 2pm - 3pm
+  mode: In-person
+  location: Shelby 105
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  resources:
