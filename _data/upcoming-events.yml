@@ -1,0 +1,159 @@
+- name: Code, Chat, & Collab
+  title: Intro
+  date: Aug 23, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Best practices for project management
+  date: Aug 30, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: CANCELLED
+  date: Sep 6, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Automating Workflows/Workflow Management
+  date: Sep 13, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Best tools for reproducibility in R
+  date: Sep 20, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Best tools for reproducibility in Python
+  date: Sep 27, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Introduction to RShiny Apps
+  date: Oct 4, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Creating a ChatBot
+  date: Oct 11, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Visualizing biological data through the UCSC genome browser
+  date: Oct 18, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Common bioinformatics data format explanation (FASTA, GFF, BED, FASTQ, BAM, VCF)
+  date: Oct 25, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Genome-Wide Association Studies (GWAS) Explained
+  date: Nov 1, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: gnomAD comprehensive overview
+  date: Nov 8, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Introduction to OMIM and HPO
+  date: Nov 15, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Learning variant call format (VCF) and filtering/accessing information from it
+  date: Nov 22, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Machine Learning Applications in Bioinformatics
+  date: Dec 6, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Machine Learning in Genomic Variant Interpretation
+  date: Dec 13, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
