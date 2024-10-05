@@ -43,8 +43,10 @@ subtitle: Meet Our Executive Board
       <img src="{{ member.image }}" alt="{{ member.name }}">
       <div>
         <strong>{{ member.name }}</strong>
-        <p>{{ member.role }}</p>
+        {{ member.role }}
       </div>
+      <br>
+      <br>
     </div>
   {% endfor %}
 </div>
