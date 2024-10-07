@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Events
-subtitle: Learn more about the Informatics Club at UAB.
+subtitle: Attend our upcoming events and access resources from previous events.
 ---
 Food (either lunch or light snacks) is always served at our Code, Chat, & Collab events!
 
-Access the following Zoom link for all our events: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/my/informaticsclub)
+Events zoom link: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/my/informaticsclub)
 
 ## Upcoming Events
   
@@ -18,8 +18,8 @@ Access the following Zoom link for all our events: [https://uab.zoom.us/my/infor
       <th>Time</th>
       <th>Mode</th>
       <th>Location</th>
-      <th>Flyer</th>
-<!--       <th>Zoom</th>
+  <!--<th>Flyer</th>
+      <th>Zoom</th>
       <th>Calendar Link</th> -->
     </tr>
   </thead>
@@ -32,7 +32,7 @@ Access the following Zoom link for all our events: [https://uab.zoom.us/my/infor
       <td>{{ event.time }}</td>
       <td>{{ event.mode }}</td>
       <td>{{ event.location }}</td>
-      <td><a href="{{ event.flyer }}">Link</a></td>
+      <!--<td><a href="{{ event.flyer }}">Link</a></td>-->
     </tr>
     {% endfor %}
   </tbody>

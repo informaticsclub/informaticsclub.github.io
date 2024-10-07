@@ -1,12 +1,7 @@
-# Informatics Club at UAB
+# Informatics Club at UAB Website
 
-## Navigations
-
-- Home
-- Resources
-- Blogs
-- Executive Board
-- Contact
+Check out our website at [informaticsclubuab.github.io](https://informaticsclubuab.github.io/) and learn more about
+the Informatics Club at UAB.
 
 ## Developers
 
