@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-subtitle: Attend some of our upcoming events and access resources from previous events.
+subtitle: Attend our upcoming events and access resources from previous events.
 ---
 Food (either lunch or light snacks) is always served at our Code, Chat, & Collab events!
 

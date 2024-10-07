@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Learn more about the Informatics Club at UAB.
+subtitle: Learn more about the history of the Informatics Club.
 ---
 
 ## Mission
