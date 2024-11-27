@@ -1,73 +1,12 @@
-- name: Code, Chat, & Collab
-  title: Creating a ChatBot
-  date: Oct 11, 2024
+- name: Monthly Seminar
+  title: Applying predictive informatics approach in the ER environment by Dr. Abdulaziz Ahmed
+  date: Dec 4, 2024
   time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
+  mode: Hybrid
+  location: TBD
   flyer:  #flyer link from google drive
   zoom:   # If none, leave empty
   calendar: 
-
-- name: Code, Chat, & Collab
-  title: Visualizing biological data through the UCSC genome browser
-  date: Oct 18, 2024
-  time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: Common bioinformatics data format explanation (FASTA, GFF, BED, FASTQ, BAM, VCF)
-  date: Oct 25, 2024
-  time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: Genome-Wide Association Studies (GWAS) Explained
-  date: Nov 1, 2024
-  time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: gnomAD comprehensive overview
-  date: Nov 8, 2024
-  time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: Introduction to OMIM and HPO
-  date: Nov 15, 2024
-  time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: Learning variant call format (VCF) and filtering/accessing information from it
-  date: Nov 22, 2024
-  time: 12pm - 1pm
-  mode: In-person
-  location: BBRB 258
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
-  calendar: 
-
 - name: Code, Chat, & Collab
   title: Machine Learning Applications in Bioinformatics
   date: Dec 6, 2024
