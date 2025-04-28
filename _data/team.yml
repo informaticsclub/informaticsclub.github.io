@@ -11,37 +11,9 @@
   role: Vice President
   image: /assets/img/emma.jpeg
 
-- name: Yuwei Song
-  role: Secretary
-  image: /assets/img/yuwei.png
-
-- name: Kristen Coutinho
-  role: Treasurer
-  image: /assets/img/kristen.jpeg
-
-- name: Victoria Flanary
-  role: Event Manager
-  image: /assets/img/vf.png
-
-- name: Victoria Johnson
-  role: Event Manager
-  image: /assets/img/vj.png
-
 - name: Dev Raj Bhattarai
   role: Social Media Manager
   image: /assets/img/dev.png
-
-- name: Sankshay Pusa
-  role: Social Media Manager
-  image: /assets/img/sankshay.png
-
-- name: Charith Sathvik Ale
-  role: Student Outreach Coordinator
-  image: /assets/img/charith.png
-
-- name: Radomir Slominski
-  role: Student Outreach Coordinator
-  image: /assets/img/radomir.png
 
 - name: Shaurita Hutchins
   role: Webmaster
