@@ -66,11 +66,14 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
     - [Genomics Curriculum](https://datacarpentry.org/lessons/#genomics-workshop)
     - [Image Processing Curriculum](https://datacarpentry.org/lessons/#image-processing-curriculum)
 
-## Courses, Tutorials, and Workshops
+## Courses, Guides, Tutorials, and Workshops
 
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training/): EMBL-EBI offers a variety of online and in person training resources, including webinars, tutorials, and courses.
+- [Python for R Users](https://blog.stephenturner.us/p/python-for-r-users): A guide for R users to learn Python.
 
 ## Recommended Reading
+
+### Journal Articles
 
 - [Ten simple rules for using public biological data for your research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010749) by Oza, V. H., Whitlock, J. H., Wilk, E. J., Uno-Antonison, A., Wilk, B., Gajapathy, M., Howton, T. C., Trull, A., Ianov, L., Worthey, E. A., & Lasseigne, B. N. (2023)
 - [So you want to be a computational biologist?](http://www.nature.com/nbt/journal/v31/n11/full/nbt.2740.html)
@@ -78,3 +81,10 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
 - [Good Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 - [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
 - [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+
+### Books
+
+#### R
+
+- [R for Data Science (2e)](https://r4ds.hadley.nz/): This book will teach you how to do data science with R.
+- [Applied Data Skills](https://psyteachr.github.io/ads-v2/): This book teaches the essential skills to clean, process, summarize, and visualize data using R, while creating dynamic reports and presentations that update automatically.

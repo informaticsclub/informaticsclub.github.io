@@ -229,3 +229,36 @@
   zoom:   # If none, leave empty
   calendar: 
   resources:
+
+- name: Monthly Seminar
+  title: Applying predictive informatics approach in the ER environment by Dr. Abdulaziz Ahmed
+  date: Dec 4, 2024
+  time: 12pm - 1pm
+  mode: Hybrid
+  location: TBD
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar:
+  resources: 
+
+- name: Code, Chat, & Collab
+  title: Machine Learning Applications in Bioinformatics
+  date: Dec 6, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+  resources:
+
+- name: Code, Chat, & Collab
+  title: Machine Learning in Genomic Variant Interpretation
+  date: Dec 13, 2024
+  time: 12pm - 1pm
+  mode: In-person
+  location: BBRB 258
+  flyer:  #flyer link from google drive
+  zoom:   # If none, leave empty
+  calendar: 
+  resources:
