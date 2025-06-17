@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # ✅ use supported image
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -38,17 +38,30 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Inspect for symlinks and hard links
+        run: |
+          echo "Checking for symlinks:"
+          find _site -type l
+          echo "Checking for hard links:"
+          find _site -type f -links +1
+
+      - name: Copy _site to clean directory (resolves symlinks)
+        run: |
+          mkdir _site_clean
+          rsync -aL _site/ _site_clean/
+
       - name: Upload GitHub Pages artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./_site
+          path: ./_site_clean
+          include-hidden-files: true
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04  # ✅ match image
+    runs-on: ubuntu-22.04
     needs: build
     steps:
       - name: Deploy to GitHub Pages
