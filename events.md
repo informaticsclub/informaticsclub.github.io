@@ -17,7 +17,7 @@ Food (either lunch or light snacks) is always served at our Code, Chat, & Collab
       <th>Mode</th>
       <th>Location</th>
       <th>Zoom</th>
-      <!--<th>Calendar Link</th> -->
+      
     </tr>
   </thead>
   <tbody>
