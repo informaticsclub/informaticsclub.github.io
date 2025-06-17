@@ -3,18 +3,18 @@
   image: /assets/img/ianov.jpg
   github: lksfda
 
-- name: Samuel Bharti
-  role: President
-  image: /assets/img/samuel.jpeg
-
 - name: Emma Graffice
-  role: Vice President
+  role: President
   image: /assets/img/emma.jpeg
+
+- name: Samuel Bharti
+  role: Vice President
+  image: /assets/img/samuel.jpeg
 
 - name: Dev Raj Bhattarai
   role: Social Media Manager
   image: /assets/img/dev.png
 
 - name: Shaurita Hutchins
-  role: Webmaster
+  role: Webmaster & Event Manager
   image: /assets/img/shaurita.png
