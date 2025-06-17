@@ -262,3 +262,69 @@
   zoom:   # If none, leave empty
   calendar: 
   resources:
+
+- name: Code, Chat, & Collab
+  title: RMarkdown for Research Reports
+  date: May 6, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: 
+  calendar: 
+  resources:
+
+- name: Code, Chat, & Collab
+  title: Long-read Sequencing - Introduction to Tools and Strategies to Implement
+  date: May 13, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: 
+  calendar: 
+  resources:
+
+- name: Code, Chat, & Collab
+  title: An Introduction to ggpubr for Scientists Who Want Better Plots
+  date: May 20, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: 
+  calendar: 
+  resources:
+
+- name: Code, Chat, & Collab
+  title: Canceled
+  date: May 27, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: 
+  calendar: 
+  resources:
+
+- name: Code, Chat, & Collab
+  title: From Differential Expression to Biological Insight
+  date: June 3, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: 
+  calendar: 
+  resources:
+
+- name: Seminar
+  title: Eleven Quick Tips for Handling Tabular Data by Marla Hertz
+  date: June 10, 2025
+  time: 12 PM
+  mode: In-person
+  location: BBRB 170
+  flyer: 
+  zoom: 
+  calendar: 
+  resources:

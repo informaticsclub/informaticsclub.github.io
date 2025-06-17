@@ -1,9 +1,59 @@
 - name: Code, Chat, & Collab
-  title: General Discussion
-  date: April 29, 2025
-  time: 11 AM - 12 PM
+  title: Intro to Streamlit - Build a Web App in 30 Minutes
+  date: June 24, 2025
+  time: 11 AM
   mode: In-person
   location: BBRB 263
-  flyer:  #flyer link from google drive
-  zoom:   # If none, leave empty
+  flyer: 
+  zoom: https://uab.zoom.us/j/84669404439
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 1, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: https://uab.zoom.us/j/84669404439
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 8, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: https://uab.zoom.us/j/84669404439
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Why Gene Names Matter (and Why They Break Code)
+  date: July 15, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: https://uab.zoom.us/j/84669404439
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 22, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: https://uab.zoom.us/j/84669404439
+  calendar: 
+
+- name: Code, Chat, & Collab
+  title: Intro to Knowledge Graphs for Genomics
+  date: July 29, 2025
+  time: 11 AM
+  mode: In-person
+  location: BBRB 263
+  flyer: 
+  zoom: https://uab.zoom.us/j/84669404439
   calendar: 
