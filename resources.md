@@ -31,7 +31,7 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 - U-BDS offers weekly data science office hours on **Thursdays from 1:30pm-2:00pm**.
     - If you are a UAB trainee, staff or faculty please feel free to stop by via [zoom](https://tinyurl.com/mt5wfyrs).
 
-- Code, Chat, & Collab is hosted **weekly** on **Fridays** by the Informatics Club in [BBRB 258](https://www.uab.edu/medicine/microbiology/news-events/schedule-a-room/bbrb-258) at Noon.
+- Code, Chat, & Collab is hosted **weekly** on **Tuesdays** by the Informatics Club in [BBRB 263](https://www.uab.edu/map/?bevill-biomedical-sciences) at 11 AM.
 
 - **UAB's Research Computing Office Hours**
     - Mondays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
@@ -47,9 +47,19 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 - Join the [UAB Labs Slack](https://join.slack.com/t/uablabs/shared_invite/zt-211dwtcgl-d48Ws05G1v4RlIqOZsJULw) and search for the `#datascience` channel and `#informatics-club` channel
     - These are great places to ask questions and stay updated on opportunities.
 
-## Courses, Workshops, and Events
+## Courses, Workshops, and Webinars
 
 U-BDS offers bi to tri-annual workshops which cover the fundamentals of programming (R, Python, Unix, git).
+
+### Upcoming U-BDS Workshops
+
+| Title                                 | Dates           | Description                                       | Location | Register | Website |
+|---------------------------------------|------------------|---------------------------------------------------|----------|----------|---------|
+| Software Carpentry: Git, Unix, Python | July 9–10, 2025  | Hands-on workshop teaching core reproducible research skills | Algen   | [Register](https://airtable.com/appFO4LceQYSBFz3h/shrOrG0Mj7CRu3zua) | [Website]() |
+
+### Webinars
+
+View some recorded webinars on the Informatics Club's YouTube channel: <https://www.youtube.com/@informatics_club_uab>
 
 # External Resources
 
@@ -66,10 +76,11 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
     - [Genomics Curriculum](https://datacarpentry.org/lessons/#genomics-workshop)
     - [Image Processing Curriculum](https://datacarpentry.org/lessons/#image-processing-curriculum)
 
-## Courses, Guides, Tutorials, and Workshops
+## Courses, Guides, Tutorials, Webinars, and Workshops
 
 - [EMBL-EBI Training](https://www.ebi.ac.uk/training/): EMBL-EBI offers a variety of online and in person training resources, including webinars, tutorials, and courses.
 - [Python for R Users](https://blog.stephenturner.us/p/python-for-r-users): A guide for R users to learn Python.
+- [NIAID's Bioinformatics Webinars](https://bioinformatics.niaid.nih.gov/catalogs): A collection of webinars on various bioinformatics topics.
 
 ## Recommended Reading
 
@@ -81,6 +92,7 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
 - [Good Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 - [Ten simple rules for biologists learning to program](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
 - [Ten Simple Rules for Reproducible Computational Research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+- [Eleven quick tips for properly handling tabular data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012604)
 
 ### Books
 
@@ -88,3 +100,8 @@ The Carpentries is a 501(c)3 non-profit organization dedicated to educating rese
 
 - [R for Data Science (2e)](https://r4ds.hadley.nz/): This book will teach you how to do data science with R.
 - [Applied Data Skills](https://psyteachr.github.io/ads-v2/): This book teaches the essential skills to clean, process, summarize, and visualize data using R, while creating dynamic reports and presentations that update automatically.
+
+#### Python
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): This book will teach you how to do data science with Python.
+- [Mastering Python for Bioinformatics](https://www.oreilly.com/library/view/mastering-python-for/9781098100872/?irclickid=0NIzLxwMQxyKRA4RoQXuqxwaUksVCUyuWxOhTY0&irgwc=1): This practical guide shows postdoc bioinformatics professionals and students how to exploit the best parts of Python to solve problems in biology while creating documented, tested, reproducible software.
