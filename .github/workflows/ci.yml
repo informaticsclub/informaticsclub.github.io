@@ -23,4 +23,4 @@ jobs:
           JEKYLL_ENV: production
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
