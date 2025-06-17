@@ -22,7 +22,7 @@ Over the last few years, our club has organized a virtual hackathon ([Hackin' Om
 
 We have also co-sponsored and supported programming workshops. In fact, after the height of the pandemic, the Informatics Club was one of the first student organizations to host an in-person workshop at UAB with the help of Dr. Blake Joyce and UAB's Research Computing.
 
-![workshop-photograph](/assets/img/blake-python.png)
+![Informatics Club workshop with Dr. Blake Joyce](/assets/img/blake-python.png)
 
 ### Previous Presidents
 
