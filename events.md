@@ -5,8 +5,6 @@ subtitle: Attend our upcoming events and access resources from previous events.
 ---
 Food (either lunch or light snacks) is always served at our Code, Chat, & Collab events!
 
-Events zoom link: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/my/informaticsclub)
-
 ## Upcoming Events
   
 <table>
@@ -18,9 +16,8 @@ Events zoom link: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/m
       <th>Time</th>
       <th>Mode</th>
       <th>Location</th>
-  <!--<th>Flyer</th>
       <th>Zoom</th>
-      <th>Calendar Link</th> -->
+      <!--<th>Calendar Link</th> -->
     </tr>
   </thead>
   <tbody>
@@ -32,7 +29,7 @@ Events zoom link: [https://uab.zoom.us/my/informaticsclub](https://uab.zoom.us/m
       <td>{{ event.time }}</td>
       <td>{{ event.mode }}</td>
       <td>{{ event.location }}</td>
-      <!--<td><a href="{{ event.flyer }}">Link</a></td>-->
+      <td><a href="{{ event.zoom }}">Zoom Link</a></td>
     </tr>
     {% endfor %}
   </tbody>
