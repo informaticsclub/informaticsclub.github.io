@@ -28,4 +28,5 @@ We have also co-sponsored and supported programming workshops. In fact, after th
 
 - Dr. Tarun Mamidi (2019-2021)
 - Ari Ginsparg (2021-2023)
-- Samuel Bharti (2023-present)
+- Samuel Bharti (2023-2025)
+- Dev Raj Bhattarai (2025-Present)
