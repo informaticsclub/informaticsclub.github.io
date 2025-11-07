@@ -14,7 +14,7 @@ There are resources developed by or provided by UAB scientists, labs, and groups
 - [Intro to Docker for RStudio](https://u-bds.github.io/training_guides/intro_to_docker_rstudio_part1.html) by Dr. Lara Ianov of U-BDS
 - [Lasseinge Lab Training Guides](https://www.lasseigne.org/education/) by the Lasseigne Lab
 - [UAB's Research Computing Documentation](https://docs.rc.uab.edu/) by UAB Research Computing
-- [CCTS Informatics Resources](https://www.uab.edu/ccts/research-commons/informatics) by CCTS
+- [CCTS Informatics Resources](https://www.uab.edu/ccts/research-resources/informatics) by CCTS
 
 ## High Performance Computing
 
@@ -31,7 +31,7 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 - U-BDS offers weekly data science office hours on **Thursdays from 1:30pm-2:00pm**.
     - If you are a UAB trainee, staff or faculty please feel free to stop by via [zoom](https://tinyurl.com/mt5wfyrs).
 
-- Code, Chat, & Collab is hosted **weekly** on **Tuesdays** by the Informatics Club in [BBRB 263](https://www.uab.edu/map/?bevill-biomedical-sciences) at 11 AM.
+- Code, Chat, & Collab is hosted **weekly** on **Tuesdays** by the Informatics Club in [McCallum](https://www.uab.edu/map/?bevill-biomedical-sciences) at noon.
 
 - **UAB's Research Computing Office Hours**
     - Mondays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)
@@ -53,9 +53,7 @@ U-BDS offers bi to tri-annual workshops which cover the fundamentals of programm
 
 ### Upcoming U-BDS Workshops
 
-| Title                                 | Dates           | Description                                       | Location | Register | Website |
-|---------------------------------------|------------------|---------------------------------------------------|----------|----------|---------|
-| Software Carpentry: Git, Unix, Python | July 9–10, 2025  | Hands-on workshop teaching core reproducible research skills | Algen   | [Register](https://airtable.com/appFO4LceQYSBFz3h/shrOrG0Mj7CRu3zua) | [Website]() |
+Awaiting information on Fall/Winter workshop.
 
 ### Webinars
 
