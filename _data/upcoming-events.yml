@@ -1,59 +1,39 @@
-- name: Code, Chat, & Collab
-  title: Intro to Streamlit - Build a Web App in 30 Minutes
-  date: June 24, 2025
-  time: 11 AM
+- name: Seminar
+  title: Developing Practical AI Tools at UAB
+  date: November 11, 2025
+  time: 3 PM
   mode: In-person
-  location: BBRB 263
+  location: BBRB 170
   flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
+  zoom: https://uab.zoom.us/j/3976269318?omn=88478297031s
   calendar: 
 
 - name: Code, Chat, & Collab
-  title: TBD
-  date: July 1, 2025
-  time: 11 AM
+  title: Accessing GEO Datasets w/ Geo2R
+  date: November 18, 2025
+  time: 12 PM
   mode: In-person
-  location: BBRB 263
+  location: MCLM 102
   flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
+  zoom: https://uab.zoom.us/j/81055786494
   calendar: 
 
 - name: Code, Chat, & Collab
-  title: TBD
-  date: July 8, 2025
-  time: 11 AM
+  title: Journal Club Edition: Single-cell RNA-seq
+  date: November 25, 2025
+  time: 12 PM
   mode: In-person
-  location: BBRB 263
+  location: MCLM 102
   flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
+  zoom: https://uab.zoom.us/j/81055786494
   calendar: 
 
 - name: Code, Chat, & Collab
-  title: Why Gene Names Matter (and Why They Break Code)
-  date: July 15, 2025
-  time: 11 AM
+  title: Submitting Jobs on Cheaha (Research Computing Collab)
+  date: December 2, 2025
+  time: 12 PM
   mode: In-person
-  location: BBRB 263
+  location: MCLM 102
   flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: TBD
-  date: July 22, 2025
-  time: 11 AM
-  mode: In-person
-  location: BBRB 263
-  flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
-  calendar: 
-
-- name: Code, Chat, & Collab
-  title: Intro to Knowledge Graphs for Genomics
-  date: July 29, 2025
-  time: 11 AM
-  mode: In-person
-  location: BBRB 263
-  flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
+  zoom: https://uab.zoom.us/j/81055786494
   calendar: 
