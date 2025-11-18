@@ -400,3 +400,13 @@
   zoom: 
   calendar:
   resources:
+  slides: /assets/pdfs/ccc_2025_11_04.pdf
+- name: Seminar
+  title: Developing Practical AI Tools at UAB
+  date: November 11, 2025
+  time: 3 PM
+  mode: In-person
+  location: BBRB 170
+  flyer: 
+  zoom: "https://uab.zoom.us/j/3976269318?omn=88478297031s"
+  calendar: 

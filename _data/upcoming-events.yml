@@ -1,13 +1,3 @@
-- name: Seminar
-  title: Developing Practical AI Tools at UAB
-  date: November 11, 2025
-  time: 3 PM
-  mode: In-person
-  location: BBRB 170
-  flyer: 
-  zoom: "https://uab.zoom.us/j/3976269318?omn=88478297031s"
-  calendar: 
-
 - name: Code, Chat, & Collab
   title: Accessing GEO Datasets w/ Geo2R
   date: November 18, 2025

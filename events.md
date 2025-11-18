@@ -46,9 +46,8 @@ Food (either lunch or light snacks) is always served at our Code, Chat, & Collab
       <th>Time</th>
       <th>Mode</th>
       <th>Location</th>
-      <th>Resources</th>
-<!--       <th>Zoom</th>
-      <th>Calendar Link</th> -->
+      <th>Slides</th>
+      <th>Recording</th>
     </tr>
   </thead>
   <tbody>
@@ -60,9 +59,16 @@ Food (either lunch or light snacks) is always served at our Code, Chat, & Collab
       <td>{{ event.time }}</td>
       <td>{{ event.mode }}</td>
       <td>{{ event.location }}</td>
+      <td style="text-align: center;">
+        {% if event.slides %}
+          <a href="{{ event.slides }}" download><i class="fas fa-download fa-lg"></i></a>
+        {% else %}
+          N/A
+        {% endif %}
+      </td>
       <td>
-        {% if event.resources %}
-          <a href="{{ event.resources }}"><i class="fab fa-github fa-stack-1x fa-inverse"></i></a>
+        {% if event.recording %}
+          <a href="{{ event.recording }}"><i class="fab fa-video fa-stack-1x fa-inverse"></i></a>
         {% else %}
           N/A
         {% endif %}
