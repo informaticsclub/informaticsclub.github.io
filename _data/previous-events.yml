@@ -381,16 +381,6 @@
   calendar: 
   resources:
 - name: Code, Chat, & Collab
-  title: Intro to Knowledge Graphs for Genomics
-  date: July 29, 2025
-  time: 11 AM
-  mode: In-person
-  location: BBRB 263
-  flyer: 
-  zoom: https://uab.zoom.us/j/84669404439
-  calendar: 
-  resources:
-- name: Code, Chat, & Collab
   title: Responsible Use of LLMs/AI in Literature Reviews
   date: November 4, 2025
   time: 12 PM
@@ -401,6 +391,7 @@
   calendar:
   resources:
   slides: /assets/pdfs/ccc_2025_11_04.pdf
+  recording: ""
 - name: Seminar
   title: Developing Practical AI Tools at UAB
   date: November 11, 2025
@@ -409,4 +400,13 @@
   location: BBRB 170
   flyer: 
   zoom: "https://uab.zoom.us/j/3976269318?omn=88478297031s"
-  calendar: 
+  recording: "https://www.youtube.com/watch?v=WwVdiRTMbxM&feature=youtu.be"
+
+- name: Code, Coffee, & Cheaha
+  title: Getting Started with Cheaha
+  date: December 9, 2025
+  time: 12 PM
+  mode: In-person
+  location: Kaul/Finley 270
+  slides: /assets/pdfs/ccc_2025_12_09.pdf
+  recording: "https://youtu.be/WwVdiRTMbxM?si=3KRG0ESKGTxQQNyP"
