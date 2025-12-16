@@ -42,7 +42,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/Informatics-Club-logo-white.png"
+title-img: "/assets/img/informatics-club-logo-white-detailed.png"
 
 
 #####################################
