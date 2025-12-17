@@ -62,3 +62,12 @@ footer .footer-links .list-inline-item a {
 /* body {
   padding-bottom: 14em !important;
 } */
+
+/* Use Roboto font for the entire site */
+body {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif !important;
+}

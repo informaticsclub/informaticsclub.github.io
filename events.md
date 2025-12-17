@@ -51,7 +51,7 @@ Food (either lunch or light snacks) is always served at our Code, Chat, & Collab
     </tr>
   </thead>
   <tbody>
-    {% for event in site.data.previous-events %}
+    {% for event in site.data.previous-events reversed %}
     <tr>
       <td>{{ event.name }}</td>
       <td>{{ event.title }}</td>
@@ -66,9 +66,9 @@ Food (either lunch or light snacks) is always served at our Code, Chat, & Collab
           N/A
         {% endif %}
       </td>
-      <td>
+      <td style="text-align: center;">
         {% if event.recording %}
-          <a href="{{ event.recording }}"><i class="fab fa-video fa-stack-1x fa-inverse"></i></a>
+          <a href="{{ event.recording }}"><i class="fab fa-youtube fa-lg"></i></a>
         {% else %}
           N/A
         {% endif %}
