@@ -1,0 +1,12 @@
+---
+layout: page
+title: Blog
+subtitle: News, recaps, and articles from our community.
+permalink: /blog/
+---
+
+<div class="columns is-multiline is-centered">
+  {% for post in site.posts %}
+    {% include post-card.html post=post %}
+  {% endfor %}
+</div>

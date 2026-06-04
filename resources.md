@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 subtitle: Below are some helpful resources.
+permalink: /resources/
 ---
 
 # UAB Resources

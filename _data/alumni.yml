@@ -1,0 +1,14 @@
+- name: Dr. Tarun Mamidi
+  role: President
+  years: "2019-2021"
+  current_position: Postdoctoral Fellow
+  github: tmamidi
+
+- name: Ari Ginsparg
+  role: President
+  years: "2021-2023"
+
+- name: Samuel Bharti
+  role: President
+  years: "2023-2025"
+  github: samuelbharti

@@ -1,5 +1,6 @@
 - name: Dr. Lara Ianov
   role: Faculty Advisor
+  title: Director, U-BDS
   image: /assets/img/ianov.jpg
   github: lksfda
 
@@ -9,7 +10,11 @@
 
 - name: Shaurita Hutchins
   role: Treasurer
+  title: PhD Candidate
   image: /assets/img/shaurita.png
+  github: sdhutchins
+  linkedin: sabornesbhutchins
+  website: https://sdhutchins.github.io
 
 - name: Arash Bagherabadi
   role: Secretary

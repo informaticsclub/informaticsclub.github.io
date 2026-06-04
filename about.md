@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: Learn more about the history of the Informatics Club.
+permalink: /about/
 ---
 
 ## Mission
@@ -24,9 +25,29 @@ We have also co-sponsored and supported programming workshops. In fact, after th
 
 ![Informatics Club workshop with Dr. Blake Joyce](/assets/img/blake-python.png)
 
-### Previous Presidents
+## Previous Presidents
 
 - Dr. Tarun Mamidi (2019-2021)
 - Ari Ginsparg (2021-2023)
 - Samuel Bharti (2023-2025)
 - Dev Raj Bhattarai (2025-Present)
+
+{% if site.data.alumni.size > 0 %}
+
+## Previous Executive Board Members
+
+<ul>
+{% for member in site.data.alumni %}
+  <li>
+    <strong>{{ member.name }}</strong> &mdash; {{ member.role }} ({{ member.years }})
+    {% if member.current_position %}<br><em>{{ member.current_position }}</em>{% endif %}
+    {% if member.github %}
+      <a href="https://github.com/{{ member.github }}" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+    {% endif %}
+    {% if member.linkedin %}
+      <a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% endif %}

@@ -2,78 +2,39 @@
 layout: page
 title: Events
 subtitle: Attend our upcoming events and access resources from previous events.
+permalink: /events/
 ---
-Food (either lunch or light snacks) is always served at our Code, Chat, & Collab events!
+
+We host regular workshops, seminars, and social events throughout the academic year.
 
 ## Upcoming Events
-  
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Name</th>
-      <th>Date</th>
-      <th>Time</th>
-      <th>Mode</th>
-      <th>Location</th>
-      <th>Zoom</th>
-      
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in site.data.upcoming-events %}
-    <tr>
-      <td>{{ event.name }}</td>
-      <td>{{ event.title }}</td>
-      <td>{{ event.date }}</td>
-      <td>{{ event.time }}</td>
-      <td>{{ event.mode }}</td>
-      <td>{{ event.location }}</td>
-      <td><a href="{{ event.zoom }}">Zoom Link</a></td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+
+{% include event-table.html events=site.data.upcoming-events type="upcoming" %}
 
 ## Previous Events
 
-<table>
-  <thead>
-    <tr>
-      <th>Event</th>
-      <th>Name</th>
-      <th>Date</th>
-      <th>Time</th>
-      <th>Mode</th>
-      <th>Location</th>
-      <th>Slides</th>
-      <th>Recording</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for event in site.data.previous-events reversed %}
-    <tr>
-      <td>{{ event.name }}</td>
-      <td>{{ event.title }}</td>
-      <td>{{ event.date }}</td>
-      <td>{{ event.time }}</td>
-      <td>{{ event.mode }}</td>
-      <td>{{ event.location }}</td>
-      <td style="text-align: center;">
-        {% if event.slides %}
-          <a href="{{ event.slides }}" download><i class="fas fa-download fa-lg"></i></a>
-        {% else %}
-          N/A
-        {% endif %}
-      </td>
-      <td style="text-align: center;">
-        {% if event.recording %}
-          <a href="{{ event.recording }}"><i class="fab fa-youtube fa-lg"></i></a>
-        {% else %}
-          N/A
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% assign reversed_events = site.data.previous-events | reverse %}
+{% include event-table.html events=reversed_events type="previous" %}
+
+{% for event in site.data.upcoming-events %}
+{% if event.start_datetime %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": {{ event.title | jsonify }},
+  "startDate": "{{ event.start_datetime }}",
+  {% if event.end_datetime %}"endDate": "{{ event.end_datetime }}",{% endif %}
+  "location": {
+    "@type": "Place",
+    "name": {{ event.location | jsonify }}
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }}
+  },
+  "eventAttendanceMode": "{% if event.mode == 'Hybrid' %}https://schema.org/MixedEventAttendanceMode{% elsif event.mode == 'Virtual' %}https://schema.org/OnlineEventAttendanceMode{% else %}https://schema.org/OfflineEventAttendanceMode{% endif %}"
+}
+</script>
+{% endif %}
+{% endfor %}

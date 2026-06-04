@@ -1,0 +1,55 @@
+---
+layout: page
+title: Search
+subtitle: Find posts by title, content, or tags
+permalink: /search/
+---
+
+<div class="field">
+  <div class="control has-icons-left">
+    <input class="input" type="text" id="search-input" placeholder="Search posts..." autofocus>
+    <span class="icon is-left"><i class="fas fa-search"></i></span>
+  </div>
+</div>
+
+<div id="search-results" class="mt-5"></div>
+
+<script>
+(function () {
+  var input = document.getElementById('search-input');
+  var resultsEl = document.getElementById('search-results');
+  var posts = [];
+
+  fetch('{{ "/search.json" | relative_url }}')
+    .then(function (r) { return r.json(); })
+    .then(function (data) { posts = data; });
+
+  input.addEventListener('input', function () {
+    var q = this.value.trim().toLowerCase();
+    resultsEl.innerHTML = '';
+
+    if (q.length < 2) return;
+
+    var matches = posts.filter(function (p) {
+      return p.title.toLowerCase().indexOf(q) !== -1 ||
+             p.excerpt.toLowerCase().indexOf(q) !== -1 ||
+             (p.tags && p.tags.join(' ').toLowerCase().indexOf(q) !== -1);
+    });
+
+    if (matches.length === 0) {
+      resultsEl.innerHTML = '<p class="has-text-grey">No posts found.</p>';
+      return;
+    }
+
+    var html = '';
+    matches.forEach(function (p) {
+      html += '<div class="box mb-4">' +
+        '<p class="title is-5 mb-1"><a href="' + p.url + '">' + p.title + '</a></p>' +
+        '<p class="is-size-7 has-text-grey mb-2">' + p.date + '</p>' +
+        '<p class="is-size-6">' + p.excerpt + '</p>' +
+        '</div>';
+    });
+    resultsEl.innerHTML = html;
+  });
+})();
+</script>

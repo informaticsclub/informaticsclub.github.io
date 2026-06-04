@@ -2,9 +2,17 @@
 
 source "https://rubygems.org"
 
-gemspec
-gem "ffi", "< 1.17.0"
-gem 'csv'
-gem 'base64'
-gem 'bigdecimal'
-gem 'jekyll'
+gem "jekyll", "~> 4.3"
+gem "webrick"
+gem "jekyll-remote-theme"
+
+# Plugins
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
+
+# Ruby 3.4+ compatibility
+gem "csv"
+gem "base64"
+gem "bigdecimal"

@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Reach out to us!
+permalink: /contact/
 ---
 
 Are you interested in attending an event, leading a workshop, contributing to a project, or even joining our executive board?
