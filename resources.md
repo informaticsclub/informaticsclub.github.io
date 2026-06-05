@@ -32,7 +32,7 @@ Learn more at <https://docs.rc.uab.edu/cheaha/getting_started/>.
 - U-BDS offers weekly data science office hours on **Thursdays from 1:30pm-2:00pm**.
     - If you are a UAB trainee, staff or faculty please feel free to stop by via [zoom](https://tinyurl.com/mt5wfyrs).
 
-- Code, Chat, & Collab is hosted **weekly** on **Tuesdays** by the Informatics Club in [McCallum](https://www.uab.edu/map/?bevill-biomedical-sciences) at noon.
+- Code, Chat, & Collab is hosted **weekly** on **Tuesdays** by the Informatics Club in [ALGEN 401](https://www.uab.edu/campusmap/?altec-styslinger) at noon.
 
 - **UAB's Research Computing Office Hours**
     - Mondays 10:00 AM to 12:00 PM: [Zoom](https://uab.zoom.us/j/81783104592?pwd=L21OOWNlY2doWXova3MzOGFRcE4zQT09)

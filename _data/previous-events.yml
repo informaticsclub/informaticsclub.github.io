@@ -410,3 +410,166 @@
   location: Kaul/Finley 270
   slides: /assets/pdfs/ccc_2025_12_09.pdf
   recording: "https://youtu.be/BuEnkoMCW1k?si=GTB_ohby3ZKfYtri"
+
+- name: Code, Chat, & Collab
+  title: Accessing GEO Datasets w/ Geo2R
+  date: November 18, 2025
+  time: 12 PM
+  mode: In-person
+  location: MCLM 102
+  zoom: https://uab.zoom.us/j/81055786494
+
+- name: Code, Chat, & Collab
+  title: "Journal Club Edition: Single-cell RNA-seq"
+  date: November 25, 2025
+  time: 12 PM
+  mode: In-person
+  location: MCLM 102
+  zoom: https://uab.zoom.us/j/81055786494
+
+- name: Code, Chat, & Collab
+  title: Intro to Conda Environments
+  date: January 14, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Metacell Aggregation for Differential Transcript Expression in Single-cell RNAseq Data
+  date: January 21, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Cancelled
+  date: January 28, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Utilizing the CAZY Database for Metagenomics Analysis
+  date: February 4, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Rescheduled
+  date: February 11, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: "scTalk 3"
+  date: February 18, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Intro to Snakemake
+  date: February 25, 2026
+  time: 12 PM
+  mode: In-person
+  location: TBD
+
+- name: Seminar
+  title: Dr. Lara Ianov
+  date: March 4, 2026
+  time: 12 PM
+  mode: In-person
+  location: TBD
+
+- name: Code, Chat, & Collab
+  title: Postponed
+  date: March 11, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Seminar
+  title: Microbiomics Seminar
+  date: March 18, 2026
+  time: 12 PM
+  mode: In-person
+  location: TBD
+
+- name: Code, Chat, & Collab
+  title: nf-core
+  date: March 25, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Alpha and Beta Diversity
+  date: April 1, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: scTalk
+  title: TBD
+  date: April 8, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Creating Macros in ImageJ
+  date: April 15, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: R Packages
+  date: April 22, 2026
+  time: 12 PM
+  mode: In-person
+  location: ALGEN 401
+
+- name: scTalk
+  title: CellChat
+  date: April 29, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: Single-cell Notebook Discussion
+  date: May 6, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: May 13, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Seminar
+  title: "Agentic Coding Systems (Codex/Claude Code) by Dr. Ryan Melvin"
+  date: May 22, 2026
+  time: 12 PM
+  mode: In-person
+  location: BBRB 263
+
+- name: Code, Chat, & Collab
+  title: rclone
+  date: May 27, 2026
+  time: 12 PM
+  mode: In-person
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: Utilizing the Molecular Signatures Database (MSigDB)
+  date: June 2, 2026
+  time: 12 PM
+  mode: Hybrid
+  location: ALGEN 401

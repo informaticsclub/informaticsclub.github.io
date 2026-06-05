@@ -1,19 +1,94 @@
-- name: Code, Chat, & Collab
-  title: Accessing GEO Datasets w/ Geo2R
-  date: November 18, 2025
+- name: scTalk
+  title: "One Dataset, Two Stories: How Seurat and Scanpy Change scRNA-seq Biology"
+  date: June 9, 2026
   time: 12 PM
-  mode: In-person
-  location: MCLM 102
-  flyer: 
-  zoom: https://uab.zoom.us/j/81055786494
-  calendar: 
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
 
 - name: Code, Chat, & Collab
-  title: "Journal Club Edition: Single-cell RNA-seq"
-  date: November 25, 2025
+  title: TBD
+  date: June 16, 2026
   time: 12 PM
-  mode: In-person
-  location: MCLM 102
-  flyer: 
-  zoom: https://uab.zoom.us/j/81055786494
-  calendar:
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Seminar
+  title: Career Seminar
+  date: June 23, 2026
+  time: 12 PM
+  mode: Hybrid
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: June 30, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 7, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 14, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 21, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: July 28, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: August 4, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: August 11, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: August 18, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401
+
+- name: Code, Chat, & Collab
+  title: TBD
+  date: August 25, 2026
+  time: 12 PM
+  mode: Hybrid
+  zoom: https://uab.zoom.us/j/89270491825
+  location: ALGEN 401

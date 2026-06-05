@@ -7,6 +7,8 @@ permalink: /events/
 
 We host regular workshops, seminars, and social events throughout the academic year.
 
+**A light lunch is always served at Code, Chat, & Collab.**
+
 ## Upcoming Events
 
 {% include event-table.html events=site.data.upcoming-events type="upcoming" %}
