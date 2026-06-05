@@ -13,10 +13,10 @@ baseurl: ""
 remote_theme: sdhutchins/jekyll-club-website
 
 # Logo
-logo: /assets/img/informatics-club-logo-white-detailed.png
+logo: /assets/img/informatics-alt-logo.png
 
 # Hero background image (optional)
-hero_image: ""
+hero_image: "assets/img/hero.jpg"
 
 # Navigation links
 nav_links:
@@ -35,12 +35,13 @@ nav_links:
   - title: Contact
     url: /contact/
 
-# Theme colors (Informatics Club greens)
-font: "Inter"
+# Fonts: Pick from Lato, Open Sans, Poppins, Montserrat, Inter
+font: "Ubuntu"
 
+# UAB colors
 colors:
   primary: "#144B39"
-  accent: "#88C408"
+  accent: "#90D408"
   dark: "#033319"
 
 # License for blog posts

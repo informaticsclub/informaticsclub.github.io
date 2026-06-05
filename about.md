@@ -19,11 +19,48 @@ including computer science, biomedical sciences, dentistry, health informatics, 
 
 Over the last few years, our club has organized a virtual hackathon ([Hackin' Omics in 2022](https://hackathon.ubrite.org/hackathon-2022/)) with over 100 participants and received the Campus Impact Award from UAB's Student Involvement and Leadership Office in April 2023.
 
-![award-photograph](/assets/img/campus-impact.jpg)
+![Campus Impact Award ceremony](/assets/img/campus-impact.jpg){:.about-photo}
 
 We have also co-sponsored and supported programming workshops. In fact, after the height of the pandemic, the Informatics Club was one of the first student organizations to host an in-person workshop at UAB with the help of Dr. Blake Joyce and UAB's Research Computing.
 
-![Informatics Club workshop with Dr. Blake Joyce](/assets/img/blake-python.png)
+<div class="columns is-centered is-vcentered is-variable is-4 about-photo-row">
+  <div class="column is-half">
+    <img src="/assets/img/hackathon.png" alt="Hackin' Omics hackathon participants" class="about-photo" loading="lazy">
+  </div>
+  <div class="column is-half">
+    <img src="/assets/img/blake-python.png" alt="Informatics Club workshop with Dr. Blake Joyce" class="about-photo" loading="lazy">
+  </div>
+</div>
+
+<style>
+.content .about-photo {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 1.25rem auto;
+  border-radius: var(--radius-sm, 8px);
+}
+.content .about-photo-row {
+  margin: 1.25rem 0;
+  align-items: stretch;
+}
+.content .about-photo-row .column {
+  display: flex;
+}
+.content .about-photo-row .about-photo {
+  margin: 0;
+  width: 100%;
+  height: clamp(220px, 32vw, 360px);
+  object-fit: cover;
+  object-position: center;
+}
+@media screen and (max-width: 768px) {
+  .content .about-photo-row .column + .column {
+    margin-top: 1rem;
+  }
+}
+</style>
 
 ## Previous Presidents
 

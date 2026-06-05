@@ -2,24 +2,36 @@
   role: Faculty Advisor
   title: Director, U-BDS
   image: /assets/img/ianov.jpg
-  github: lksfda
+  github: lianov
+  linkedin: lara-ianov
 
 - name: Dev Raj Bhattarai
   role: President
+  title: PhD Candidate
   image: /assets/img/dev.png
+  github: devraj5
+  linkedin: dev-raj-bhattarai-4b4123251
 
 - name: Shaurita Hutchins
   role: Treasurer
   title: PhD Candidate
   image: /assets/img/shaurita.png
   github: sdhutchins
-  linkedin: sabornesbhutchins
-  website: https://sdhutchins.github.io
+  linkedin: sdhutchins
+  website: https://shauritahutchins.com
 
 - name: Arash Bagherabadi
   role: Secretary
+  title: PhD Student
   image: /assets/img/arash.png
+  linkedin: arashbagherabadi
+  github: arashabadi
+  website: https://arashabadi.github.io/
 
 - name: Hannah McIntire-Ray
   role: Event Manager
+  title: PhD Candidate
   image: /assets/img/hannah.png
+  linkedin: hannah-mcintire-ray-953a38195
+  github: HJMcinti
+

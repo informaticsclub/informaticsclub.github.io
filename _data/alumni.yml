@@ -1,8 +1,9 @@
 - name: Dr. Tarun Mamidi
   role: President
   years: "2019-2021"
-  current_position: Postdoctoral Fellow
+  current_position: Founder at Mamidi Health; Bioinformatics Scientist at Children's Mercy Kansas City
   github: tmamidi
+  linkedin: tkmamidi
 
 - name: Ari Ginsparg
   role: President
@@ -12,3 +13,22 @@
   role: President
   years: "2023-2025"
   github: samuelbharti
+
+- name: Santhosh Karthikeyan
+  role: Secretary
+  years: "2022-2024"
+  current_position: Data Science Specialist (Bioinformatics) at Arizona State University
+  github: santhoshkarthikeyan
+  linkedin: santhosh-kumar-karthikeyan
+
+- name: Lisa Shrestha
+  role: Social Media Manager
+  years: "2021-2024"
+  current_position: Postdoctoral Scholar at UC San Diego
+  linkedin: lisa-shrestha
+
+- name: Dana Indihar
+  role: Treasurer
+  years: "2021-2023"
+  current_position: Assistant Professor at Alabama A&M University
+  linkedin: dana-indihar-phd-5a8196249
