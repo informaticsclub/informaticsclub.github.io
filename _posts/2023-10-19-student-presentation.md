@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Student Presentation"
-subtitle:  Illuminating Biological Data with LLMs Tarun Kumar
+title: Illuminating Biological Data with LLMs
+subtitle:  An Introduction to Using LLMs in Biomedical Research by Tarun Mamidi
 tags: [llm, biological-data, ai, student-presentations, student]
+author_first_name: Samuel
+author_last_name: Bharti
 comments: false
 ---
 
@@ -23,7 +25,3 @@ Stay tuned for more event summaries and updates on our GitHub website, where we'
 <a href="https://docs.google.com/presentation/d/1-oaQsQHNCe_eacXCfHaQoHuWSqFrSuE0/edit?usp=sharing&ouid=110725132466133961555&rtpof=true&sd=true" class="btn btn-primary" target="_blank">
   Download Presentation Slides
 </a>
-
-_Written by Samuel Bharti (draft by chatGPT)_
-
-_Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_

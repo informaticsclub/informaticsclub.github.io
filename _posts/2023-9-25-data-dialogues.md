@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Data Dialogues
-subtitle: Exploring the World of Spatial Transcriptomics with Dr. Nilesh Kumar
+title: "Spatial Transcriptomics: From Theory to Practice"
+subtitle: Dr. Nilesh Kumar Helps Us Explore the World of Spatial Transcriptomics
 tags: [spatial-transcriptomics, transcriptomics, single-cell, data-dialogues, u-bds]
+author_first_name: Samuel
+author_last_name: Bharti
 comments: false
 ---
 

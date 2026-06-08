@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Student Presentation
-subtitle: "UX Research Article Analysis: A Human-Centered Designed Outreach Strategy for a Youth Contraception Navigator Program by Mattie Logan"
+title: UX Research Article Analysis
+subtitle: A Human-Centered Designed Outreach Strategy for a Youth Contraception Navigator Program
 tags: [ux research, article analysis, student-presentations, student]
+author_first_name: Mattie
+author_last_name: Logan
 comments: false
 ---
 
@@ -25,7 +27,3 @@ This student presentation showcased the transformative potential of UX research.
 <a href="https://drive.google.com/file/d/1jtFMFoA44l1PhEDd_kl-14LfuKFfPAOn/view?usp=sharing" class="btn btn-primary" target="_blank">
   Download Presentation Slides
 </a>
-
-_Written by Mattie Logan (draft by chatGPT)_
-
-_Want to request edits on this blog? Contact [sbharti@uab.edu](mailto:sbharti@uab.edu) or [informaticsclub@uab.edu](mailto:informaticsclub@uab.edu)_

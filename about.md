@@ -73,18 +73,46 @@ We have also co-sponsored and supported programming workshops. In fact, after th
 
 ## Previous Executive Board Members
 
-<ul>
+<div class="columns is-multiline alumni-grid">
 {% for member in site.data.alumni %}
-  <li>
-    <strong>{{ member.name }}</strong> &mdash; {{ member.role }} ({{ member.years }})
-    {% if member.current_position %}<br><em>{{ member.current_position }}</em>{% endif %}
-    {% if member.github %}
-      <a href="https://github.com/{{ member.github }}" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-    {% endif %}
-    {% if member.linkedin %}
-      <a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
-    {% endif %}
-  </li>
+  <div class="column is-half-tablet is-one-third-desktop reveal">
+    <div class="alumni-card">
+      <div class="alumni-card-top">
+        <div>
+          <p class="title is-5 mb-1">{{ member.name }}</p>
+          <p class="alumni-role mb-0">{{ member.role }}</p>
+        </div>
+        <span class="alumni-years">{{ member.years }}</span>
+      </div>
+      {% if member.current_position %}
+      <p class="alumni-current-position">{{ member.current_position }}</p>
+      {% endif %}
+      {% if member.github or member.linkedin or member.bluesky or member.website %}
+      <div class="alumni-links">
+        {% if member.github %}
+        <a href="https://github.com/{{ member.github }}" target="_blank" rel="noopener" aria-label="{{ member.name }} GitHub">
+          <span class="icon"><i class="fab fa-github"></i></span>
+        </a>
+        {% endif %}
+        {% if member.linkedin %}
+        <a href="https://linkedin.com/in/{{ member.linkedin }}" target="_blank" rel="noopener" aria-label="{{ member.name }} LinkedIn">
+          <span class="icon"><i class="fab fa-linkedin"></i></span>
+        </a>
+        {% endif %}
+        {% if member.bluesky %}
+        <a href="https://bsky.app/profile/{{ member.bluesky }}" target="_blank" rel="noopener" aria-label="{{ member.name }} Bluesky">
+          <span class="icon"><i class="fab fa-bluesky"></i></span>
+        </a>
+        {% endif %}
+        {% if member.website %}
+        <a href="{{ member.website }}" target="_blank" rel="noopener" aria-label="{{ member.name }} Website">
+          <span class="icon"><i class="fas fa-globe"></i></span>
+        </a>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
 {% endfor %}
-</ul>
+</div>
 {% endif %}

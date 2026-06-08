@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Data Dialogues
-subtitle: Navigating the World of Single Cell Transcriptomics with Dr. Bharat
+title: Navigating the World of Single Cell Transcriptomics
+subtitle: A Deep Dive into Single Cell Transcriptomics with Dr. Bharat Mishra
 tags: [single-cell, transcriptomics, data-dialogues, u-bds]
+author_first_name: Samuel
+author_last_name: Bharti
 comments: false
 ---
 

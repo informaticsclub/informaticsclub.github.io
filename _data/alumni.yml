@@ -12,6 +12,7 @@
 - name: Samuel Bharti
   role: President
   years: "2023-2025"
+  current_position: PhD Candidate in Biomedical Engineering at UAB
   github: samuelbharti
 
 - name: Santhosh Karthikeyan
@@ -32,9 +33,3 @@
   years: "2021-2023"
   current_position: Assistant Professor at Alabama A&M University
   linkedin: dana-indihar-phd-5a8196249
-
-- name: Samuel Bharti
-  role: President
-  years: "2023-2025"
-  current_position: PhD Candidate at UAB
-  linkedin: 
