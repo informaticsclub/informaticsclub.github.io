@@ -5,6 +5,8 @@
   mode: Hybrid
   zoom: https://uab.zoom.us/j/89270491825
   location: ALGEN 401
+  resource_label: Article
+  resource_url: https://pubmed.ncbi.nlm.nih.gov/41903535/
 
 - name: Code, Chat, & Collab
   title: TBD
